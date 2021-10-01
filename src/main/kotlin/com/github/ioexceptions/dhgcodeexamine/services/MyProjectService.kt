@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ioexceptions.dhgcodeexamine.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ioexceptions.dhgcodeexamine.MyBundle
 
 class MyProjectService(project: Project) {
 
